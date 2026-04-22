@@ -1,12 +1,12 @@
 {
-  "export_job_id": "139142f0-10ba-4b72-af4c-ade2874417bc",
+  "export_job_id": "2dd57358-791d-4bf8-b32c-9d820657d22d",
   "id_short": 222433,
-  "published_at": "2026-04-18T07:20:40Z",
+  "published_at": "2026-04-22T19:24:21Z",
   "repo_name": "restaurant-verified-email-access-in-vermont-us-sample-222433",
   "sample_asset_name": "beamstation_222433_restaurants-us-vt_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/222433/beamstation_222433_restaurants-us-vt_SAMPLE_DIST.csv",
-  "sample_records": 39,
-  "sample_sha256": "25c489620de5790dfe22e0b6b6fdd17f1307244bfa92ac9d9c52f81c1392562e",
-  "sample_size_bytes": 158424,
-  "total_records": 397
+  "sample_records": 24,
+  "sample_sha256": "07a4e19bd6d955920bc95481dbca7c792172dc88a8ff7dedfe8d53fcec1f1665",
+  "sample_size_bytes": 102148,
+  "total_records": 249
 }
